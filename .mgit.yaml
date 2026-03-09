@@ -4,8 +4,6 @@ profiles:
     - exclude:
       - '@common'
       - '*.bak'
-      include:
-      - '*.txt'
       local: ~/example/path
       mode: copy
       repo: example/path
